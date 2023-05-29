@@ -1,0 +1,15 @@
+ build/CMakeCache.txt
+ build/CMakeFiles/
+ build/Makefile
+ build/cmake/
+ build/cmake_install.cmake
+ build/common/
+ build/encoder/
+ build/libx265.a
+ build/libx265.so
+ build/libx265.so.208
+ build/x265
+ build/x265.def
+ build/x265.pc
+ build/x265_config.h
+
